@@ -19,32 +19,31 @@
 
 ## 🧠 About Me
 
-I’m a Web Developer متخصص في بناء مواقع احترافية سريعة وجذابة.
-I focus on delivering **real business value**, not just code.
+I’m a Web Developer specialized in building modern, fast, and responsive websites.  
+I focus on delivering **real business value**, clean UI, and strong performance.
 
-* ⚡ WordPress (Themes & Plugins)
-* 💻 React & Frontend Development
-* 🎯 Clean UI / UX
-* 🚀 Performance Optimization
+- ⚡ WordPress (Themes & Plugins)
+- 💻 React & Frontend Development
+- 🎯 UI/UX focused design
+- 🚀 Performance optimization
 
 ---
 
 ## 💼 Services I Offer
 
-✔ Full Website Development
-✔ WordPress Custom Themes
-✔ E-commerce Websites
-✔ Landing Pages (High Conversion)
-✔ Bug Fixing & Speed Optimization
+✔ Full Website Development  
+✔ WordPress Custom Themes & Plugins  
+✔ E-commerce Websites  
+✔ Landing Pages (High Conversion)  
+✔ Bug Fixing & Performance Optimization  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Website
-
 <p align="center">
-<img src="https://image.thum.io/get/width/800/https://singular-strudel-6ed01e.netlify.app/" />
+<img src="https://image.thum.io/get/width/1000/https://singular-strudel-6ed01e.netlify.app/" />
 <br/>
 <a href="https://singular-strudel-6ed01e.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-blue?style=for-the-badge" />
@@ -54,9 +53,8 @@ I focus on delivering **real business value**, not just code.
 ---
 
 ### 🛒 E-Commerce Website
-
 <p align="center">
-<img src="https://via.placeholder.com/700x350?text=Ecommerce+Preview" />
+<img src="https://image.thum.io/get/width/1000/https://fluffy-duckanoo-e3aac7.netlify.app/" />
 <br/>
 <a href="https://fluffy-duckanoo-e3aac7.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-View%20Store-green?style=for-the-badge" />
@@ -66,9 +64,8 @@ I focus on delivering **real business value**, not just code.
 ---
 
 ### 🍽️ Restaurant Website
-
 <p align="center">
-<img src="https://via.placeholder.com/700x350?text=Restaurant+Website" />
+<img src="https://image.thum.io/get/width/1000/https://ahmed1234mahmoud.github.io/-/" />
 <br/>
 <a href="https://ahmed1234mahmoud.github.io/-/">
 <img src="https://img.shields.io/badge/Visit-Restaurant-orange?style=for-the-badge" />
@@ -78,9 +75,8 @@ I focus on delivering **real business value**, not just code.
 ---
 
 ### ☕ Cafe Website
-
 <p align="center">
-<img src="https://via.placeholder.com/700x350?text=Cafe+Project" />
+<img src="https://image.thum.io/get/width/1000/https://graceful-parfait-5abdee.netlify.app" />
 <br/>
 <a href="https://graceful-parfait-5abdee.netlify.app">
 <img src="https://img.shields.io/badge/Explore-Cafe-brown?style=for-the-badge" />
@@ -90,9 +86,8 @@ I focus on delivering **real business value**, not just code.
 ---
 
 ### 🎓 Courses Platform
-
 <p align="center">
-<img src="https://via.placeholder.com/700x350?text=Courses+Platform" />
+<img src="https://image.thum.io/get/width/1000/https://timely-beijinho-7f1905.netlify.app/" />
 <br/>
 <a href="https://timely-beijinho-7f1905.netlify.app/">
 <img src="https://img.shields.io/badge/View-Courses-purple?style=for-the-badge" />
@@ -109,11 +104,11 @@ I focus on delivering **real business value**, not just code.
 
 ---
 
-## ⭐ Client Testimonials
+## ⭐ Testimonials
 
-💬 "Ahmed delivered a clean and professional website beyond expectations!"
-💬 "Very fast and responsive developer. Highly recommended."
-💬 "Great experience working with him on a WordPress project."
+💬 "Clean work and very professional website delivery."  
+💬 "Fast response and great attention to detail."  
+💬 "Highly recommended developer for WordPress projects."  
 
 ---
 
@@ -134,17 +129,41 @@ I focus on delivering **real business value**, not just code.
 
 ---
 
-## 📩 Hire Me
+## 📩 Let's Work Together
+
+<p align="center">
+🚀 Available for Freelance & Full-Time Opportunities  
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-mahmoud-8bb2a3325">
-<img src="https://img.shields.io/badge/Hire%20Me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/Hire%20Me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+</p>
+
+<p align="center">
+<a href="mailto:mahmoudsoliman5433@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://wa.me/201229528782">
+<img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+</p>
+
+<p align="center">
+💬 Let’s build something amazing together 🚀  
+</p>
+
+<p align="center">
+⏳ Response Time: Within 24 Hours
 </p>
 
 ---
 
 ## 💡 Final Note
 
-I don’t just build websites…
-I build experiences that convert visitors into customers 🚀🔥
+I don’t just build websites…  
+I build digital experiences that convert visitors into customers 🚀🔥
