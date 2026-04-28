@@ -44,7 +44,7 @@ I focus on delivering **real business value**, not just code.
 ### 🤖 AI Website
 
 <p align="center">
-<img src="https://via.placeholder.com/700x350?text=AI+Project+Preview" />
+<img src="https://image.thum.io/get/width/800/https://singular-strudel-6ed01e.netlify.app/" />
 <br/>
 <a href="https://singular-strudel-6ed01e.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-blue?style=for-the-badge" />
