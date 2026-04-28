@@ -54,7 +54,7 @@ I focus on delivering **real business value**, clean UI, and strong performance.
 
 ### 🛒 E-Commerce Website
 <p align="center">
-<img src="https://image.thum.io/get/width/1000/https://fluffy-duckanoo-e3aac7.netlify.app/" />
+
 <br/>
 <a href="https://fluffy-duckanoo-e3aac7.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-View%20Store-green?style=for-the-badge" />
@@ -65,7 +65,7 @@ I focus on delivering **real business value**, clean UI, and strong performance.
 
 ### 🍽️ Restaurant Website
 <p align="center">
-<img src="https://image.thum.io/get/width/1000/https://ahmed1234mahmoud.github.io/-/" />
+
 <br/>
 <a href="https://ahmed1234mahmoud.github.io/-/">
 <img src="https://img.shields.io/badge/Visit-Restaurant-orange?style=for-the-badge" />
@@ -76,7 +76,7 @@ I focus on delivering **real business value**, clean UI, and strong performance.
 
 ### ☕ Cafe Website
 <p align="center">
-<img src="https://image.thum.io/get/width/1000/https://graceful-parfait-5abdee.netlify.app" />
+
 <br/>
 <a href="https://graceful-parfait-5abdee.netlify.app">
 <img src="https://img.shields.io/badge/Explore-Cafe-brown?style=for-the-badge" />
@@ -87,7 +87,7 @@ I focus on delivering **real business value**, clean UI, and strong performance.
 
 ### 🎓 Courses Platform
 <p align="center">
-<img src="https://image.thum.io/get/width/1000/https://timely-beijinho-7f1905.netlify.app/" />
+>
 <br/>
 <a href="https://timely-beijinho-7f1905.netlify.app/">
 <img src="https://img.shields.io/badge/View-Courses-purple?style=for-the-badge" />
