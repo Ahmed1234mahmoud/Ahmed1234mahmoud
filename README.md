@@ -43,7 +43,7 @@ I focus on delivering **real business value**, clean UI, and strong performance.
 
 ### 🤖 AI Website
 <p align="center">
-<img src="https://image.thum.io/get/width/1000/https://singular-strudel-6ed01e.netlify.app/" />
+
 <br/>
 <a href="https://singular-strudel-6ed01e.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-blue?style=for-the-badge" />
