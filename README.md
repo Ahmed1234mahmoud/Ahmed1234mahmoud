@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+Build+Modern+Websites;WordPress+Specialist;React+Frontend+Developer;Available+for+Freelance+Work&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+Build+High+Converting+Websites;WordPress+Expert;React+Frontend+Developer;SaaS+Builder;Available+for+Freelance+Work&center=true&width=520&height=45">
 </p>
 
 <p align="center">
@@ -19,31 +19,43 @@
 
 ## 🧠 About Me
 
-I’m a Web Developer specialized in building modern, fast, and responsive websites.  
-I focus on delivering **real business value**, clean UI, and strong performance.
+I’m a results-driven Web Developer focused on building **modern, fast, and conversion-focused websites**.
 
-- ⚡ WordPress (Themes & Plugins)
-- 💻 React & Frontend Development
-- 🎯 UI/UX focused design
-- 🚀 Performance optimization
+I don’t just write code — I help businesses grow by creating digital experiences that **attract, engage, and convert users into customers**.
 
 ---
 
-## 💼 Services I Offer
+## 💼 What I Do
 
-✔ Full Website Development  
-✔ WordPress Custom Themes & Plugins  
-✔ E-commerce Websites  
-✔ Landing Pages (High Conversion)  
-✔ Bug Fixing & Performance Optimization  
+✔ Full Website Development (From Idea to Launch)
+✔ WordPress Custom Themes & Plugins
+✔ High-Converting Landing Pages
+✔ E-commerce Development
+✔ SaaS & Dashboard Interfaces
+✔ Performance Optimization & Bug Fixing
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Website
-<p align="center">
+### 🚀 SaaS Platform (AI Powered)
 
+Modern AI-powered SaaS platform designed for productivity and smart automation.
+
+<p align="center">
+<br/>
+<a href="https://bright-genie-8b880e.netlify.app/">
+<img src="https://img.shields.io/badge/Live%20App-Explore%20Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+
+---
+
+### 🤖 AI Website
+
+Smart AI-based website with modern UI and interactive experience.
+
+<p align="center">
 <br/>
 <a href="https://singular-strudel-6ed01e.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-blue?style=for-the-badge" />
@@ -53,8 +65,10 @@ I focus on delivering **real business value**, clean UI, and strong performance.
 ---
 
 ### 🛒 E-Commerce Website
-<p align="center">
 
+Modern online store with smooth UX and responsive design.
+
+<p align="center">
 <br/>
 <a href="https://fluffy-duckanoo-e3aac7.netlify.app/">
 <img src="https://img.shields.io/badge/Live%20Demo-View%20Store-green?style=for-the-badge" />
@@ -64,8 +78,10 @@ I focus on delivering **real business value**, clean UI, and strong performance.
 ---
 
 ### 🍽️ Restaurant Website
-<p align="center">
 
+Clean and attractive restaurant UI with great user experience.
+
+<p align="center">
 <br/>
 <a href="https://ahmed1234mahmoud.github.io/-/">
 <img src="https://img.shields.io/badge/Visit-Restaurant-orange?style=for-the-badge" />
@@ -75,8 +91,10 @@ I focus on delivering **real business value**, clean UI, and strong performance.
 ---
 
 ### ☕ Cafe Website
-<p align="center">
 
+Stylish cafe website with modern layout and branding.
+
+<p align="center">
 <br/>
 <a href="https://graceful-parfait-5abdee.netlify.app">
 <img src="https://img.shields.io/badge/Explore-Cafe-brown?style=for-the-badge" />
@@ -86,8 +104,10 @@ I focus on delivering **real business value**, clean UI, and strong performance.
 ---
 
 ### 🎓 Courses Platform
+
+Online learning platform with clean UI and structured content.
+
 <p align="center">
->
 <br/>
 <a href="https://timely-beijinho-7f1905.netlify.app/">
 <img src="https://img.shields.io/badge/View-Courses-purple?style=for-the-badge" />
@@ -101,14 +121,6 @@ I focus on delivering **real business value**, clean UI, and strong performance.
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,php,mysql,git,github,vscode" />
 </p>
-
----
-
-## ⭐ Testimonials
-
-💬 "Clean work and very professional website delivery."  
-💬 "Fast response and great attention to detail."  
-💬 "Highly recommended developer for WordPress projects."  
 
 ---
 
@@ -129,7 +141,15 @@ I focus on delivering **real business value**, clean UI, and strong performance.
 
 ---
 
-## 📩 Let's Work Together
+## ⭐ Testimonials
+
+💬 "Clean, modern, and professional work."
+💬 "Delivered faster than expected with great quality."
+💬 "Highly recommended for WordPress & frontend projects."
+
+---
+
+## 📩 Let’s Work Together
 
 <p align="center">
 🚀 Available for Freelance & Full-Time Opportunities  
@@ -153,17 +173,9 @@ I focus on delivering **real business value**, clean UI, and strong performance.
 </a>
 </p>
 
-<p align="center">
-💬 Let’s build something amazing together 🚀  
-</p>
-
-<p align="center">
-⏳ Response Time: Within 24 Hours
-</p>
-
 ---
 
 ## 💡 Final Note
 
-I don’t just build websites…  
-I build digital experiences that convert visitors into customers 🚀🔥
+I don’t just build websites…
+I build **digital experiences that convert visitors into customers** 🚀🔥
